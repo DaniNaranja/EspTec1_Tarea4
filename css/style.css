@@ -1,0 +1,43 @@
+.content{
+    text-align: center;
+    margin-top: 5vh;
+    
+}
+
+.gallery{
+    margin-top: 10vh;
+    margin-left: 35vh;
+    text-align: left;
+}
+
+
+footer{
+    background-color: black;
+    margin-top: 5%;
+    height: 25vh;
+}
+
+
+
+.about{
+    padding-top: 1%;
+    float: left;
+    margin-left: 10%;
+    width: 30%;
+    
+   
+    color:  rgb(180, 178, 178);
+}
+
+.thanks{
+    padding-top: 1%;
+    margin-left: 60%;
+    color: rgb(180, 178, 178);
+    width: 30%;
+}
+
+.credits{
+    margin-top: 1rem;
+    text-align: center;
+}
+
